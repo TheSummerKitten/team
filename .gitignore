@@ -1,2 +1,5 @@
 #忽略名为bootstrap-4.6.2的文件夹
 bootstrap-4.6.2/
+#忽略jquery和jquery-color插件
+js/jquery.min.js
+js/jquery.color.js
